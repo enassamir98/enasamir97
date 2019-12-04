@@ -17,9 +17,7 @@ resume-external: true
 resume-url: https://google.com/?q=my+resume
 
 url: https://koppl.in/indigo
-#your url: https://enassamir98.github.io/enas/
-baseurl: "/enassamir98"
-url: "https://enassamir98.github.io"
+# your url: http://USERNAME.github.io
 
 permalink: /:title/
 
@@ -54,7 +52,6 @@ github: enassamir98
 # vimeo: myvimeo
 # lanyrd: mylanyrd
 email: enas.samir98@gmail.com
-
 authors:
     johndoe:
         name: John Doe
